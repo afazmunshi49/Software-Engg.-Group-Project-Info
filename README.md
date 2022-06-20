@@ -13,3 +13,6 @@ Link: [Movie Guide Demo Video](https://www.youtube.com/watch?v=g6UcowNzqRw&ab_ch
  * Navigate to the folder where you would like this repo to be cloned in Command Prompt/Terminal
  * Type ``` git clone https://github.com/afazmunshi49/Software-Engg.-Group-Project-Info.git ``` on your Command Prompt/Terminal
  * Open ``` index.html ``` in a browser of your choice
+
+## Credits
+Credits to the people who have worked on the project is mentioned on the website
